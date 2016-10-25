@@ -1,0 +1,13 @@
+{
+	"name": "project",
+	"version": "0.0.1",
+	"description": "A modular approach to Unbabel editing interface",
+	"main": "./project.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johnsardine/sysdesigner"
+	},
+	"dependencies": {
+		"system-runtime": "^1.8.5"
+	}
+}
